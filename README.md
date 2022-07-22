@@ -1,0 +1,2 @@
+# APPL-GOOG-Stock-Forcasting
+In our project, we collected stock trading data for Apple and Google in the S&amp;P500 for the period 2006-01-01 to 2017-12-01. We chose Apple and Google because both companies experienced dramatic growth during this period and the dataset is more complete than some startups. Stock prices are constantly changing with the performance of the companies. Therefore, we are interested in what the stock prices of Apple and Google are. Therefore, we use time series to predict future stock prices (high) based on their historical data.
